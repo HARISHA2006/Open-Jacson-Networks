@@ -19,7 +19,7 @@ Visual components and Python
 ## Experiment:
 ![m-6](https://github.com/user-attachments/assets/1810a714-5df7-4159-82fb-dc4c1e707d01)
 
-![Uploading m-6(i).png…]()
+![m-6(i)](https://github.com/user-attachments/assets/4847f6b9-d950-477c-ad7f-b1d7abc06974)
 
 ## Program
 ```
