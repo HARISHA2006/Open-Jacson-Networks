@@ -69,3 +69,4 @@ print("----------------------------------------------------------------------")
 ![maths ep6](https://github.com/user-attachments/assets/619c6eac-13e6-4314-87b4-6495c8c773d3)
 
 ## Result
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
